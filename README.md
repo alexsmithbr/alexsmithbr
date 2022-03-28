@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexsmithbr
+- 👀 I’m interested in reverse engineering, drones, wordpress back-end programming, bash scripting.
+- 🌱 I’m currently learning python (from zero) and everything else I already know a bit about.
+- 💞️ I’m looking to collaborate on any open-source project my skills would fit.
+- 📫 You can reach me on WhatsApp at +SSSI9926AAS9O or by mail at alexandre dot schmidt at gmail dot com.
